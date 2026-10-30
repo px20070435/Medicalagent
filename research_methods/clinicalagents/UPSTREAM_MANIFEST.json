@@ -1,0 +1,43 @@
+{
+  "repository": "https://github.com/ZhuohanGe/ClinicalAgents-Code",
+  "ref": "main",
+  "commit": "e7dbd15513235e388cbb0dc0afafdfcbacefe420",
+  "retrieved_on": "2026-10-28",
+  "upstream_modified": false,
+  "status": "source_snapshot_only_not_runnable",
+  "missing_upstream_modules": [
+    "app_config.py",
+    "experience_memory.py"
+  ],
+  "files_sha256": {
+    "README.md": "867e44a57bec42e7382f493802f2c84bd08b03c81829a1e565d5563ce15d1190",
+    "agents/__init__.py": "63b398e839a04cff52747456d014624eee258f4ddb4bb9187dc3e420018111d8",
+    "agents/diagnosis_agent.py": "93e206c293427133dc5143b9af9afb7e909bdb373e7f9c26364c946d216267fe",
+    "agents/doctor_agent.py": "d6175c343de86e8a1a116a3e3270965468463d664784b9b3cd08d844e02a94f8",
+    "agents/imaging_agent.py": "ad55609180e966cd2ab103efc6acef44298d4d492b028ced5e2e57a1cf6ede80",
+    "agents/referral_agent.py": "b7c11044307d30ccec4d69c2be4e15f80cc44bf8b8b0e36aef21ce0479ca63dd",
+    "agents/treatment_agent.py": "09f4366a3f1ed114e4398b939a1494b042147da4005fcb6fceb75909389a1f38",
+    "main.py": "a0be67da69c37fa41bb72eb0ef6921315014bcc4e6b17bdd64d06621e0a2958d",
+    "mcts_config.py": "dcd4ca6a22b98c51e9fb597b11a84daf6b84fdab7bacd2475487ffbbbde64468",
+    "mcts_prompts.py": "62d3aeaacfbfdcde84d81d57d9a5d239b76f5216333259bcdbb5602ad6145967",
+    "mcts_search.py": "f51ca281733cfa97d7d94ba27819e056a80faebe44b14fa9b8d3635eda38f163",
+    "mcts_state.py": "2124cc4983250c4a0ead8a4fa1b474288e567ed5e68755bcfae78155a0596cd1",
+    "med_orchestrator.py": "8b82e2348a95ce374e1f46708813082b31b07e0b5aeb19b4a8e6806a6c42bb07",
+    "prompts/check_imaging_prompt.txt": "db8a8de10c29e9f2cb101715b757dbfc0095e05d9cb0151413e4d8afb5410af2",
+    "prompts/dept_final_prompt.txt": "2f0535c5627b13decf2fe376c8a439483bc845e021f6ea5642baab1c233a97dc",
+    "prompts/dept_verify_prompt.txt": "1d79055c5059abe854cb5246c7ba2281de7b9e424f89285396a7e3050421cddf",
+    "prompts/diagnosis_eval_prompt.txt": "dd2d9b84ad18aca6f4c32fe868ec84ca97d74edea406f85e81fb802f68516e01",
+    "prompts/diagnosis_prompt.txt": "8cf3dd4edc3947f5c7a6aaa50152072315007cc2eabba101263ce10495af3126",
+    "prompts/doclens_entail_prompt.txt": "58d33be4740e126de5494466d7059e2b10d4fe0eefacf321fcb006a7dd0be103",
+    "prompts/doclens_extract_prompt.txt": "693b4f8f2fca94ddb12ed56ff91d59795bcf2f83d8d458c7175ae2b90b9562f2",
+    "prompts/doctor_prompt.txt": "90a7d1c5f0934c9cf413197369e9c7c9ddb51e7e9e729294bf6c0eb0008046d9",
+    "prompts/doctor_recheck_prompt.txt": "48b6af731cae83c406e51193c87c606ec436c3eac0a0e6e8072706af91fc7a52",
+    "prompts/imaging_prompt.txt": "b9adb0734a3e50b407cd3e74d394c6f5215a5416c3c978ce6783a1ff6772c7f5",
+    "prompts/orchestrator_decision_prompt.txt": "96f74517494360b3f883e311f436b53e1b934f068ba4d7256cecdb8c7a6fe909",
+    "prompts/referral_l1_prompt.txt": "1db71ae8a4d7f81e9596f511cea4a89e41332432da987cca7f9609256d585bc5",
+    "prompts/referral_l2_prompt.txt": "4ead3cdf0607a0304ad661bd24f994e01c7c794b4a740b257f46e70c5a0f3481",
+    "prompts/treatment_prompt.txt": "a061a5d8b62fd15c55217b44262fd317bac6f2f3551161e1874d806fe80addf7",
+    "state_memory.py": "f1dc227709c3423ded61ddcb9fa22095212e1a8000f9b2ea83dc172985802b97",
+    "utils.py": "adc41327fca2b75f971eabec6dabc7d9bf4408a9cda645dc80e635222ecfe046"
+  }
+}

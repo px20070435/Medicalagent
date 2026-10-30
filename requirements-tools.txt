@@ -1,0 +1,8 @@
+# Download/build helpers only; upstream requirements.txt remains unchanged.
+huggingface-hub==0.26.3
+numpy==1.26.4
+pandas==2.2.3
+openpyxl==3.1.5
+requests==2.32.3
+fastapi==0.112.1
+uvicorn==0.30.6

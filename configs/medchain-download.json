@@ -1,0 +1,17 @@
+{
+  "dataset": "ljwztc/MedChain",
+  "huggingface_revision": "769a6de3333bf1ab5e283d2ccbdba62029686a07",
+  "github_revision": "35ab53e3c601831a7bca181c72ecad6b12b55ff3",
+  "github_files": [
+    {
+      "name": "filtered_data_test_set.json",
+      "url": "https://raw.githubusercontent.com/ljwztc/MedChain/35ab53e3c601831a7bca181c72ecad6b12b55ff3/datasets/filtered_data_test_set.json",
+      "sha256": "cb947c9b7ff8979ebbaa816b3b0977ed04bc84b6257147166a7fe725b7dbdb87"
+    },
+    {
+      "name": "merged_cases_room_structure.txt",
+      "url": "https://raw.githubusercontent.com/ljwztc/MedChain/35ab53e3c601831a7bca181c72ecad6b12b55ff3/datasets/merged_cases_room_structure.txt",
+      "sha256": "6e32bb0a65721f452116bf425574f55d5eb93f2c55daeaaee8c109d47fbcbf9f"
+    }
+  ]
+}
